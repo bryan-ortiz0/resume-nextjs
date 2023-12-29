@@ -57,7 +57,7 @@ export const RESUME_DATA = {
             Supported kickoff of new data analytics career pilot program through University of The Bahamas, helping twenty-eight working professionals reskill into data-focused roles.
           </>
           <>
-            Assisted with SQL (\PostgreSQL\, \MySQL\), Tableau, Excel, and Python skill-building modules to further strengthen students' technical capabilities with essential data tools as regional technology sector expands.
+            Assisted with PostgreSQL, MySQL, Tableau, Excel, and Python skill-building modules to further strengthen students' technical capabilities with essential data tools as regional technology sector expands.
           </>
         </>
       )
@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       description: (
         <>
           <>
-            Partnered with two other instructors to deliver a 12-week comprehensive Data Science Immersive training program, covering the full Data Science toolkit, including Data Visualizations, Python (Seabon, Matplotlib, Pandas), R, SQL (BigQuery, SQLite), Tableau, and Machine Learning.
+            Partnered with two other instructors to deliver a 12-week comprehensive Data Science Immersive training program, covering the full Data Science toolkit, including Data Visualizations, Python, R, SQL like BigQuery, Tableau, and Machine Learning.
           </>
           <>
             Provided personalized technical guidance to ten students of varying skill levels, overseeing grading rubrics and assessments across key program milestones while assisting with hands-on projects.
@@ -114,7 +114,7 @@ export const RESUME_DATA = {
             Leading the creation of a comprehensive Python coding curriculum for high school district within the FOCUSS group.
           </>
           <>
-            Foster student learning and engagement through hands-on coding exercises and projects in Jupyter notebooks/integrated development environments (IDEs) like VSCode, while leveraging bilingual fluency in Spanish and English to build interpersonal connections with broader range of students across language barriers.
+            Foster student learning and engagement through hands-on coding exercises and projects in Jupyter notebooks/integrated development environments like VSCode, while leveraging bilingual fluency in Spanish and English to build interpersonal connections with broader range of students across language barriers.
           </>
         </>
       ),
