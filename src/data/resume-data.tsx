@@ -49,7 +49,7 @@ export const RESUME_DATA = {
       link: "https://www.linkedin.com/company/drive-x/",
       badges: ["Data Analytics"],
       title: "Teaching Assistant - University of The Bahamas",
-      logo: "", // Add logo if available
+      logo: "https://media.licdn.com/dms/image/C4E0BAQH80OD6UBrp7w/company-logo_200_200/0/1674943725742/drive_x_logo?e=1712188800&v=beta&t=y5e9PZ1J3y523JDcem5jh0sQrqxKYmzyKkpW9v9RhEY", // Add logo if available
       start: "Dec 2023",
       end: "Present",
       description:
@@ -60,7 +60,7 @@ export const RESUME_DATA = {
       link: "https://generalassemb.ly/",
       badges: ["Data Science / Machine Learning"],
       title: "Teaching Assistant - Data Science Immersive Fellowship",
-      logo: "", // Add logo if available
+      logo: "https://media.licdn.com/dms/image/C4E0BAQEwAxD22k-HBw/company-logo_200_200/0/1630655071296/generalassembly_logo?e=1712188800&v=beta&t=4WRXcEV3qCdCkt0KGF_NJ3_s2tl5XeQzQCJ9GrKzniQ", // Add logo if available
       start: "Nov 2023",
       end: "Present",
       description:
@@ -71,7 +71,7 @@ export const RESUME_DATA = {
       link: "https://www.loreal.com/en/",
       badges: ["Data Literacy"],
       title: "Instructional Assistant - Data Literacy Program",
-      logo: "", // Add logo if available
+      logo: "https://media.licdn.com/dms/image/D4E0BAQFEB_g-FWxSrQ/company-logo_200_200/0/1688397792617/loral_logo?e=1712188800&v=beta&t=nK0paqTNcHiaRJgSNJOtRtx_jDHbzXC9SwQ6iIUHCxw", // Add logo if available
       start: "Nov 2023",
       end: "Present",
       description:
@@ -82,7 +82,7 @@ export const RESUME_DATA = {
       link: "https://www.facebook.com/FocussInc/",
       badges: ["Python Programming"],
       title: "Data Scientist",
-      logo: "",
+      logo: "https://scontent-msp1-1.xx.fbcdn.net/v/t39.30808-6/279302060_182805384077232_8387082812529376351_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Q8eur6c6MZQAX_xcNa6&_nc_ht=scontent-msp1-1.xx&oh=00_AfBK4AO7if0HU4w-9Z7LI88xfkmBjTBrPeg7_C2VwcNEwA&oe=65940E5F",
       start: "Oct 2023",
       end: "Present",
       description:
