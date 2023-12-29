@@ -30,7 +30,8 @@ export const RESUME_DATA = {
   },
   skills: [
     "Python",
-    "SQL",
+    "MySQL",
+    "PostgreSQL",
     "R",
     "Pandas",
     "NumPy",
@@ -51,16 +52,8 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "Dec 2023",
       end: "Present",
-      description: (
-        <>
-          <>
-            Supported kickoff of new data analytics career pilot program through University of The Bahamas, helping twenty-eight working professionals reskill into data-focused roles.
-          </>
-          <>
-            Assisted with PostgreSQL, MySQL, Tableau, Excel, and Python skill-building modules to further strengthen students' technical capabilities with essential data tools as regional technology sector expands.
-          </>
-        </>
-      )
+      description:
+        "Contributed to the introduction of an innovative data analytics career training program at the University of the Bahamas, coaching 28 professionals as they gained in-demand skills for technology jobs. Instructed them in essential database tools, data visualization platforms, and Python to arm them with indispensable expertise, securing successful transitions into growing regional data science roles.",
     },
     {
       company: "General Assembly",
@@ -70,16 +63,8 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "Nov 2023",
       end: "Present",
-      description: (
-        <>
-          <>
-            Partnered with two other instructors to deliver a 12-week comprehensive Data Science Immersive training program, covering the full Data Science toolkit, including Data Visualizations, Python, R, SQL like BigQuery, Tableau, and Machine Learning.
-          </>
-          <>
-            Provided personalized technical guidance to ten students of varying skill levels, overseeing grading rubrics and assessments across key program milestones while assisting with hands-on projects.
-          </>
-        </>
-      ),
+      description:
+        "Co-delivered a 12-week, thorough Data Science Immersive training program featuing Tableau, Python, R, BigQuery, and Machine Learning. Guided ten students with varying abilities, facilitating hands-on projects and monitoring assessment rubrics for major milestones.",
     },
     {
       company: "L'Oréal",
@@ -89,16 +74,8 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "Nov 2023",
       end: "Present",
-      description: (
-        <>
-          <>
-            Assisted the lead instructor for L'Oréal's Data Literacy Program for 200+ nontechnical participants, covering data democratization best practices, full data lifecycle phases like ETL and data modeling, and introducing data visualization tools like Tableau and PowerBI for transforming processed data into business insights.
-          </>
-          <>
-            Collaborated with L'Oréal's team to ensure alignment of expectation for the program. Responsible for polls/trivia questions to keep participants engaged and answer questions, enabling the lead instructor to present smoothly.
-          </>
-        </>
-      ),
+      description:
+        "Supported lead instructor for L'Oréal's Data Literacy Program for 200+ non-technical participants, tackling data democratization, data lifecycle stages such as ETL and data modeling, and data visualization tools like Tableau and PowerBI. Facilitated coordiation with L'Oréal's team, handled participant interactions via polls/trivia, and addressed questions, resulting in a flawless presentation by the lead instructor.",
     },
     {
       company: "Focus On Community Uplifting, Self-Esteem & Success (FOCUSS)",
@@ -108,16 +85,8 @@ export const RESUME_DATA = {
       logo: "",
       start: "Oct 2023",
       end: "Present",
-      description: (
-        <>
-          <>
-            Leading the creation of a comprehensive Python coding curriculum for high school district within the FOCUSS group.
-          </>
-          <>
-            Foster student learning and engagement through hands-on coding exercises and projects in Jupyter notebooks/integrated development environments like VSCode, while leveraging bilingual fluency in Spanish and English to build interpersonal connections with broader range of students across language barriers.
-          </>
-        </>
-      ),
+      description:
+        "Directed Python coding curriculum development for a high school district, promoting learning via hands-on exercises and projects in Jupyter notebooks/VSCode, and establishing rapport with multilingual students using dual-language fluency.",
     },
   ],
   projects: [
