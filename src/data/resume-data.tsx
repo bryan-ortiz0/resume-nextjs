@@ -31,7 +31,7 @@ export const RESUME_DATA = {
   skills: [
     "Python",
     "MySQL",
-    "PostgreSQL",
+    "BigQuery",
     "R",
     "Pandas",
     "NumPy",
@@ -53,7 +53,7 @@ export const RESUME_DATA = {
       start: "Dec 2023",
       end: "Present",
       description:
-        "Contributed to the introduction of an innovative data analytics career training program at the University of the Bahamas, coaching 28 professionals as they gained in-demand skills for technology jobs. Instructed them in essential database tools, data visualization platforms, and Python to arm them with indispensable expertise, securing successful transitions into growing regional data science roles.",
+        "Contributed to the introduction of an innovative data analytics career training program at the University of the Bahamas, coaching 28 professionals as they gained in-demand skills for technology jobs. Instructed them in essential database tools (MySQL), data visualization platforms (Tableau and Excel), and Python to arm them with indispensable expertise, securing successful transitions into growing regional data science roles.",
     },
     {
       company: "General Assembly",
@@ -64,7 +64,7 @@ export const RESUME_DATA = {
       start: "Nov 2023",
       end: "Present",
       description:
-        "Co-delivered a 12-week, thorough Data Science Immersive training program featuing Tableau, Python, R, BigQuery, and Machine Learning. Guided ten students with varying abilities, facilitating hands-on projects and monitoring assessment rubrics for major milestones.",
+        "Co-delivered a 12-week, thorough Data Science Immersive training program featuing Tableau, Python, R, SQL, and Machine Learning. Guided ten students with varying abilities, facilitating hands-on projects and monitoring assessment rubrics for major milestones.",
     },
     {
       company: "L'Oréal",
