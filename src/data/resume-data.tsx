@@ -57,7 +57,7 @@ export const RESUME_DATA = {
             Supported kickoff of new data analytics career pilot program through University of The Bahamas, helping twenty-eight working professionals reskill into data-focused roles.
           </>
           <>
-            Assisted with SQL (PostgreSQL, MySQL), Tableau, Excel, and Python skill-building modules to further strengthen students' technical capabilities with essential data tools as regional technology sector expands.
+            Assisted with SQL (\PostgreSQL\, \MySQL\), Tableau, Excel, and Python skill-building modules to further strengthen students' technical capabilities with essential data tools as regional technology sector expands.
           </>
         </>
       )
@@ -92,7 +92,7 @@ export const RESUME_DATA = {
       description: (
         <>
           <>
-            Assisted the lead instructor for L'Oréal's Data Literacy Program (200+ nontechnical participants), covering data democratization best practices, full data lifecycle phases like ETL and data modeling, and introducing data visualization tools like Tableau and PowerBI for transforming processed data into business insights.
+            Assisted the lead instructor for L'Oréal's Data Literacy Program for 200+ nontechnical participants, covering data democratization best practices, full data lifecycle phases like ETL and data modeling, and introducing data visualization tools like Tableau and PowerBI for transforming processed data into business insights.
           </>
           <>
             Collaborated with L'Oréal's team to ensure alignment of expectation for the program. Responsible for polls/trivia questions to keep participants engaged and answer questions, enabling the lead instructor to present smoothly.
