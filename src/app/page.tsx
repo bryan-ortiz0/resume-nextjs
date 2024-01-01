@@ -188,14 +188,6 @@ export default function Page() {
       <CommandMenu
         links={[
           {
-            url: RESUME_DATA.personalWebsiteUrl,
-            title: "Personal Website",
-          },
-          ...RESUME_DATA.contact.social.map((socialMediaLink) => ({
-            url: socialMediaLink.url,
-            title: socialMediaLink.name,
-          })),
-          {
             url: "https://drive.google.com/uc?id=1yZdYTk3SRQpXT4RifFQqKT4G5qmMA40T&export=download",
             title: "Download Resume",
           },
