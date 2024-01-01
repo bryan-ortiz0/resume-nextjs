@@ -191,6 +191,10 @@ export default function Page() {
             url: "https://drive.google.com/uc?id=1yZdYTk3SRQpXT4RifFQqKT4G5qmMA40T&export=download",
             title: "Download Resume",
           },
+          ...RESUME_DATA.contact.social.map((socialMediaLink) => ({
+            url: socialMediaLink.url,
+            title: socialMediaLink.name,
+          })),
         ]}
       />
     </main>
