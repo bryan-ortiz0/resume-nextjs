@@ -11,7 +11,7 @@ export const RESUME_DATA = {
     "I am an aspiring machine learning engineer eager to apply my data science skills to build innovative artificial intelligence solutions.",
   summary:
     "Analytics specialist with proficiency in Python, SQL, and core data science and machine learning concepts. Track record of assisting students in leveling up their data skills through supplemental instruction in coding, statistics, visualization tools, and key analytical techniques.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/130245932?s=400&u=c4eca054898815d2d84bdc40f32e7edbcf33fdd2&v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/130245932?s=400&u=b744f701aa4aac096506c96b8efab0fb6b0b549b&v=4",
   personalWebsiteUrl: "https://bryan-ortiz0.github.io/",
   contact: {
     email: "ortizbryan54321@gmail.com",
