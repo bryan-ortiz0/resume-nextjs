@@ -5,7 +5,7 @@ const ResumeIcon = (props: React.SVGProps<SVGSVGElement>) => {
     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" {...props}>
       <path
         fill="currentColor"
-        d="M16.21 16.21A6 6 0 0 1 12 20H7a8 8 0 1 1 0-16h5a6 6 0 1 1 0 12h-1.79zM12 14a4 4 0 1 0 0-8 4 4 0 0 0 0 8z"
+        d="M12 2a10 10 0 0 1 10 10v6h2v-6a8 8 0 1 0-16 0v6h2v-6a10 10 0 0 1 10-10zm0 14a6 6 0 1 1 0-12 6 6 0 0 1 0 12zm0-2a4 4 0 1 0 0-8 4 4 0 0 0 0 8z"
       />
       <path
         fill="currentColor"
