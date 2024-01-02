@@ -1,11 +1,10 @@
 import React from "react";
 
-const ResumeIcon = (props: React.SVGProps<SVGSVGElement>) => (
+const ResumeIcon = (props) => (
   <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" {...props}>
-    <path
+    <path 
       fill="currentColor"
-      d="M19 3H5C3.34 3 2 4.34 2 6v12c0 1.66 1.34 3 3 3h14c1.66 0 3-1.34 3-3V6c0-1.66-1.34-3-3-3zM5 5h14v2H5V5zm7 3c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm5 6H5v2h12v-2zm0 4H5v2h12v-2z"
-    />
+      d="M20 6h-3V4c0-1.11-.89-2-2-2H9c-1.11 0-2 .89-2 2v2H4c-1.11 0-2 .89-2 2v11c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zM9 4h6v2H9V4zm11 15H4v-2h16v2zm0-5H4V8h3v2h2V8h6v2h2V8h3v6z"/>
   </svg>
 );
 
