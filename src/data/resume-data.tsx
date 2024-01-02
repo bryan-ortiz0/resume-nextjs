@@ -18,6 +18,11 @@ export const RESUME_DATA = {
     tel: "5154907304",
     social: [
       {
+        name: "Resume",
+        url: "https://drive.google.com/uc?id=1yZdYTk3SRQpXT4RifFQqKT4G5qmMA40T&export=download",
+        icon: ResumeIcon,
+      },
+      {
         name: "GitHub",
         url: "https://github.com/bryan-ortiz0",
         icon: GitHubIcon,
@@ -26,11 +31,6 @@ export const RESUME_DATA = {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/bryan-ortiz0/",
         icon: LinkedInIcon,
-      },
-      {
-        name: "Resume",
-        url: "https://drive.google.com/uc?id=1yZdYTk3SRQpXT4RifFQqKT4G5qmMA40T&export=download",
-        icon: ResumeIcon,
       }
     ],
   },
