@@ -1,3 +1,4 @@
+import { ResumeIcon } from "../components/icons/ResumeIcon";
 import { GitHubIcon } from "../components/icons/GitHubIcon";
 import { LinkedInIcon } from "../components/icons/LinkedInIcon";
 
@@ -25,6 +26,11 @@ export const RESUME_DATA = {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/bryan-ortiz0/",
         icon: LinkedInIcon,
+      },
+      {
+        name: "Resume",
+        url: "https://drive.google.com/uc?id=1yZdYTk3SRQpXT4RifFQqKT4G5qmMA40T&export=download",
+        icon: ResumeIcon,
       }
     ],
   },
