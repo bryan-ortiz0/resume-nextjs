@@ -93,7 +93,7 @@ export const RESUME_DATA = {
   projects: [
     {
       title: "Go Bot",
-      techStack: ["python", "deep learning", "monte carlo tree search (MCTS)", "keras"],
+      techStack: ["Python", "Deep Learning", "Monte Carlo Tree Search", "Keras"],
       description:
         "Engineered a Go-playing bot utilizing Convolutional Neural Networks (CNN) to understand intricate dynamics in the game of Go, showing an accuracy reaching 15% (baselined: .028%).",
       link: {
@@ -103,7 +103,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Examining Water Usage",
-      techStack: ["python", "pandas", "k-means clustering", "dbscan", "git"],
+      techStack: ["Python", "Pandas", "K-Means Clustering", "DBSCAN", "Git"],
       description:
         "Using K-means clustering to group counties based on water use patterns showed big differences in how much water is used for things like watering crops, supplying homes, and mining across counties. The results indicate specific chances for counties to work together to use water better in raising animals, mining, and fish farming as well as hints that people with higher incomes may use more water.",
       link: {
@@ -113,7 +113,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Subreddit NLP",
-      techStack: ["machine learning", "natural language processing", "random forest", "naive bayes"],
+      techStack: ["Machine Learning", "Natural Language Processing", "Random Forest", "Naive Bayes"],
       description:
         "Designed and implemented models to categorize posts with 85-87% accuracy from online posts between two communities, showing potential to understand more about the groups through their language.",
       link: {
@@ -123,7 +123,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Hot Dog or Not Hot Dog Hackathon",
-      techStack: ["image classification", "hyperparameter optimization", "convolutional neural networks"],
+      techStack: ["Image Classification", "Hyperparameter Optimization", "Convolutional Neural Networks"],
       description:
         "Developed a custom image classification model for the 'Hot Dog or Not Hot Dog' hackathon, achieving 74% accuracy. Opted for an original model design instead of transfer learning, gaining insights into convolutional neural networks, data preprocessing, and hyperparameter optimization.",
       link: {
@@ -133,7 +133,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Ames Housing Price Prediction",
-      techStack: ["python", "supervised machine learning", "ridge regression"],
+      techStack: ["Python", "Supervised Machine Learning", "Ridge Regression"],
       description:
         "Employed linear regression techniques in Jupyter notebook to analyze Ames, Iowa housing data from CSV files, achieving an 89% accuracy in predicting sales prices for upcoming listings.",
       link: {
@@ -143,7 +143,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Census ACT / SAT Scores Exploratory Data Analysis",
-      techStack: ["utility functions", "Pandas", "NumPy", "Matplotlib"],
+      techStack: ["Utility Functions", "Pandas", "NumPy", "Matplotlib"],
       description:
         "Analyzed ACT/SAT scores from 2017-2019 to determine regional trends and inform educational resource allocation. After cleaning datasets, merging, and visualizing, insights revealed low academic performance in the Southern region compared to other regions, prompting urgent resource redistribution.",
       link: {
