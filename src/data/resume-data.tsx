@@ -142,12 +142,12 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Census ACT/SAT Scores Exploratory Data Analysis",
+      title: "Census ACT / SAT Scores Exploratory Data Analysis",
       techStack: ["utility functions", "Pandas", "NumPy", "Matplotlib"],
       description:
         "Analyzed ACT/SAT scores from 2017-2019 to determine regional trends and inform educational resource allocation. After cleaning datasets, merging, and visualizing, insights revealed low academic performance in the Southern region compared to other regions, prompting urgent resource redistribution.",
       link: {
-        label: "Census ACT/SAT Scores Exploratory Data Analysis",
+        label: "Census ACT / SAT Scores Exploratory Data Analysis",
         href: "https://github.com/bryan-ortiz0/statistical_test_analysis",
       },
     },
