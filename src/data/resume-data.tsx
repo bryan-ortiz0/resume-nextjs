@@ -31,6 +31,7 @@ export const RESUME_DATA = {
   skills: [
     "Python",
     "MySQL",
+    "SQLite",
     "BigQuery",
     "R",
     "Pandas",
@@ -121,6 +122,16 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Hot Dog or Not Hot Dog",
+      techStack: ["image classification", "hyperparameter optimization", "convolutional neural networks"],
+      description:
+        "Developed a custom image classification model for the 'Hot Dog or Not Hot Dog' hackathon, achieving 74% accuracy. Opted for an original model design instead of transfer learning, gaining insights into convolutional neural networks, data preprocessing, and hyperparameter optimization.",
+      link: {
+        label: "Hot Dog or Not Hot Dog",
+        href: "https://github.com/bryan-ortiz0/hotdog_or_not",
+      },
+    },
+    {
       title: "Ames Housing Price Prediction",
       techStack: ["python", "supervised machine learning", "ridge regression"],
       description:
@@ -128,6 +139,16 @@ export const RESUME_DATA = {
       link: {
         label: "Ames Housing Price Prediction",
         href: "https://github.com/bryan-ortiz0/ames_housing_analysis",
+      },
+    },
+    {
+      title: "Census ACT / SAT Scores Exploratory Data Analysis",
+      techStack: ["utility functions", "Pandas", "NumPy", "Matplotlib"],
+      description:
+        "Analyzed ACT/SAT scores from 2017-2019 to determine regional trends and inform educational resource allocation. After cleaning datasets, merging, and visualizing, insights revealed low academic performance in the Southern region compared to other regions, prompting urgent resource redistribution.",
+      link: {
+        label: "Census ACT / SAT Scores Exploratory Data Analysis",
+        href: "https://github.com/bryan-ortiz0/statistical_test_analysis",
       },
     },
   ],
