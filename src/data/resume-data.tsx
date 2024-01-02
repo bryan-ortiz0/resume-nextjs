@@ -122,12 +122,12 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Hot Dog or Not Hot Dog",
+      title: "Hot Dog or Not Hot Dog Hackathon",
       techStack: ["image classification", "hyperparameter optimization", "convolutional neural networks"],
       description:
         "Developed a custom image classification model for the 'Hot Dog or Not Hot Dog' hackathon, achieving 74% accuracy. Opted for an original model design instead of transfer learning, gaining insights into convolutional neural networks, data preprocessing, and hyperparameter optimization.",
       link: {
-        label: "Hot Dog or Not Hot Dog",
+        label: "Hot Dog or Not Hot Dog Hackathon",
         href: "https://github.com/bryan-ortiz0/hotdog_or_not",
       },
     },
