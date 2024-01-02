@@ -11,4 +11,4 @@ const ResumeIcon = (props: React.SVGProps<SVGSVGElement>) => {
   );
 };
 
-export default ResumeIcon;
+export { ResumeIcon };
