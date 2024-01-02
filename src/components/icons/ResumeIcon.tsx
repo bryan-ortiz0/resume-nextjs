@@ -1,4 +1,3 @@
-// File: ResumeIcon.tsx
 import React from "react";
 
 const ResumeIcon = (props: React.SVGProps<SVGSVGElement>) => {
@@ -6,7 +5,7 @@ const ResumeIcon = (props: React.SVGProps<SVGSVGElement>) => {
     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" {...props}>
       <path
         fill="currentColor"
-        d="M12 10.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7zM12 12.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0 2a6.5 6.5 0 1 1 0-13 6.5 6.5 0 0 1 0 13z"
+        d="M12 21a9 9 0 1 1 0-18 9 9 0 0 1 0 18zm0-2a7 7 0 1 0 0-14 7 7 0 0 0 0 14zm0-9a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"
       />
     </svg>
   );
