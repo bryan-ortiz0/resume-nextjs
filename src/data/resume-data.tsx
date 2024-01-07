@@ -37,7 +37,7 @@ export const RESUME_DATA = {
   skills: [
     "Python",
     "MySQL",
-    "SQLite",
+    "PostgreSQL",
     "BigQuery",
     "R",
     "Pandas",
