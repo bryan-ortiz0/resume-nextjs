@@ -101,7 +101,7 @@ export const RESUME_DATA = {
       title: "Forecasted Ethereum Prices Using Machine Learning",
       techStack: ["Python", "Pandas", "NumPy", "TensorFlow", "Keras", "XGBoost", "Hugging Face"],
       description:
-        "Analyzed 6 years of hourly Ethereum pricing data from Bitstamp. Developed machine learning pipelines evaluating 5 models including XGBoost, achieving 0.993 R2 on holdout data.",
+        "Analyzed 6 years of hourly Ethereum pricing data from Bitstamp. Developed machine learning pipelines evaluating 5 models including XGBoost, achieving 99.3% predictive power on holdout data.",
       link: {
         label: "Forecasted Ethereum Prices Using Machine Learning",
         href: "https://github.com/bryan-ortiz0/crypto-forecast-analysis",
