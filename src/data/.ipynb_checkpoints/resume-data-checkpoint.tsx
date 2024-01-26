@@ -48,7 +48,8 @@ export const RESUME_DATA = {
     "Keras",
     "Tensorflow",
     "Tableau",
-    "Excel"
+    "Excel",
+    "Bilingual"
   ],
   work: [
     {
