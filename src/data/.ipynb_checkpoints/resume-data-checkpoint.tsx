@@ -88,7 +88,7 @@ export const RESUME_DATA = {
       company: "Focus On Community Uplifting, Self-Esteem & Success (FOCUSS)",
       link: "https://www.facebook.com/FocussInc/",
       badges: ["Python Programming"],
-      title: "Data Scientist",
+      title: "Python Curriculum Developer and Instructor",
       logo: "https://scontent-msp1-1.xx.fbcdn.net/v/t39.30808-6/279302060_182805384077232_8387082812529376351_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Q8eur6c6MZQAX_xcNa6&_nc_ht=scontent-msp1-1.xx&oh=00_AfBK4AO7if0HU4w-9Z7LI88xfkmBjTBrPeg7_C2VwcNEwA&oe=65940E5F",
       start: "Oct 2023",
       end: "Present",
