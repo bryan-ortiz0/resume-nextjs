@@ -19,7 +19,7 @@ export const RESUME_DATA = {
     social: [
       {
         name: "Resume",
-        url: "https://drive.google.com/file/d/1Cr-v2JSDGeQ3nSpXBpc_pe8QoqKG8Cm2/view?usp=drive_link",
+        url: "https://drive.google.com/file/d/1Qpn1cDk-Bb9DAjfylm7NW8Pyyd0kZsdg/view?usp=sharing",
         icon: ResumeIcon,
       },
       {
