@@ -10,7 +10,7 @@ export const RESUME_DATA = {
   about:
     "Welcome to my data science portfolio.",
   summary:
-    "I am working to become a machine learning engineer to build innovative AI solutions. My current expertise includes Python, SQL, data science fundamentals and helping others improve their analytical talents. I am eager to apply my coding, statistical and core machine learning competencies to create technological advances through artificial intelligence.",
+    "I am working to become a machine learning engineer. My current expertise includes Python, SQL, data science fundamentals and helping others improve their analytical talents. I am eager to apply my coding, statistical and core machine learning competencies to create technological advances through artificial intelligence.",
   avatarUrl: "https://avatars.githubusercontent.com/u/130245932?s=400&u=b744f701aa4aac096506c96b8efab0fb6b0b549b&v=4",
   personalWebsiteUrl: "https://bryan-ortiz0.github.io/",
   contact: {
