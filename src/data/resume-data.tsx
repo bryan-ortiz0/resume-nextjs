@@ -66,7 +66,7 @@ export const RESUME_DATA = {
       start: "Dec 2023",
       end: "Feb 2024",
       description:
-        "Contributed to the introduction of an innovative data analytics career training program at the University of the Bahamas, coaching 28 professionals as they gained in-demand skills for technology jobs. Instructed them in essential database tools (MySQL), data visualization platforms (Tableau and Excel), and Python to arm them with indispensable expertise, securing successful transitions into growing regional data science roles.",
+        "Contributed to innovative data analytics career training program that was introduced at the University of the Bahamas. Within this program, 28 professionals were coached as they gained in-demand skills for technology jobs. The coaching included instruction in essential database tools such as SQL, data visualization platforms like Tableau and Excel, and Python programming.",
     },
     {
       company: "General Assembly",
@@ -77,7 +77,7 @@ export const RESUME_DATA = {
       start: "Nov 2023",
       end: "Present",
       description:
-        "Co-delivered a 12-week, thorough Data Science Immersive training program featuing Tableau, Python, R, SQL, and Machine Learning. Guided ten students with varying abilities, facilitating hands-on projects and monitoring assessment rubrics for major milestones.",
+        "Co-delivered a 12-week, thorough Data Science Immersive training program featuring Tableau, Python, R, SQL, and Machine Learning. Guided ten students with varying abilities, facilitating hands-on projects and monitoring assessment rubrics for major milestones.",
     },
     {
       company: "L'Oréal",
@@ -88,7 +88,7 @@ export const RESUME_DATA = {
       start: "Nov 2023",
       end: "Jan 2024",
       description:
-        "Supported lead instructor for L'Oréal's Data Literacy Program for 200+ non-technical participants, tackling data democratization, data lifecycle stages such as ETL and data modeling, and data visualization tools like Tableau and PowerBI. Facilitated coordiation with L'Oréal's team, handled participant interactions via polls/trivia, and addressed questions, resulting in a flawless presentation by the lead instructor.",
+        "Supported lead instructor for L'Oréal's Data Literacy Program for 200+ non-technical participants, tackling data democratization, data lifecycle stages such as ETL and data modeling, and data visualization tools like Tableau and PowerBI. Facilitated coordination with L'Oréal's team, handled participant interactions via polls/trivia, and addressed questions, resulting in a flawless presentation by the lead instructor.",
     },
     {
       company: "Focus On Community Uplifting, Self-Esteem & Success (FOCUSS)",
