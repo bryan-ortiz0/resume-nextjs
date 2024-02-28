@@ -34,11 +34,16 @@ export const RESUME_DATA = {
       }
     ],
   },
+  certifications: [
+    "Oracle Database SQL Certified Associate",
+    "CompTIA A+",
+    "CompTIA Network+",
+    "CompTIA Security+",
+    "Aviatrix Multicloud Network Associate"
+  ],
   skills: [
     "Python",
-    "MySQL",
-    "PostgreSQL",
-    "BigQuery",
+    "SQL",
     "R",
     "Pandas",
     "NumPy",
@@ -59,7 +64,7 @@ export const RESUME_DATA = {
       title: "Teaching Assistant - University of The Bahamas",
       logo: "https://media.licdn.com/dms/image/C4E0BAQH80OD6UBrp7w/company-logo_200_200/0/1674943725742/drive_x_logo?e=1712188800&v=beta&t=y5e9PZ1J3y523JDcem5jh0sQrqxKYmzyKkpW9v9RhEY", // Add logo if available
       start: "Dec 2023",
-      end: "Present",
+      end: "Feb 2024",
       description:
         "Contributed to the introduction of an innovative data analytics career training program at the University of the Bahamas, coaching 28 professionals as they gained in-demand skills for technology jobs. Instructed them in essential database tools (MySQL), data visualization platforms (Tableau and Excel), and Python to arm them with indispensable expertise, securing successful transitions into growing regional data science roles.",
     },
@@ -81,7 +86,7 @@ export const RESUME_DATA = {
       title: "Instructional Assistant - Data Literacy Program",
       logo: "https://media.licdn.com/dms/image/D4E0BAQFEB_g-FWxSrQ/company-logo_200_200/0/1688397792617/loral_logo?e=1712188800&v=beta&t=nK0paqTNcHiaRJgSNJOtRtx_jDHbzXC9SwQ6iIUHCxw", // Add logo if available
       start: "Nov 2023",
-      end: "Present",
+      end: "Jan 2024",
       description:
         "Supported lead instructor for L'Oréal's Data Literacy Program for 200+ non-technical participants, tackling data democratization, data lifecycle stages such as ETL and data modeling, and data visualization tools like Tableau and PowerBI. Facilitated coordiation with L'Oréal's team, handled participant interactions via polls/trivia, and addressed questions, resulting in a flawless presentation by the lead instructor.",
     },
