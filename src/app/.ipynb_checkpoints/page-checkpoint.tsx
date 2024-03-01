@@ -82,15 +82,18 @@ export default function Page() {
           <div className="space-y-2">
             {RESUME_DATA.certifications.map((certification) => {
               return (
-                <div key={certification.name} className="flex items-center gap-2">
+                <div key={certification.name} className="flex flex-col gap-1">
                   <span className="font-semibold">{certification.name}</span>
-                  <span className="text-muted-foreground">{certification.issuer}</span>
-                  <span className="text-muted-foreground">{certification.date}</span>
-          </div>
+                  <div className="flex items-center gap-1 text-muted-foreground">
+                    <span>{certification.issuer}</span>
+                    <span>•</span>
+                    <span>{certification.date}</span>
+                  </div>
+                </div>
               );
             })}
           </div>
-        </Section>  
+        </Section>
           
         <Section>
           <h2 className="text-xl font-bold">Work Experience</h2>
