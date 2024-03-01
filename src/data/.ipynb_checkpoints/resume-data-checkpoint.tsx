@@ -35,11 +35,31 @@ export const RESUME_DATA = {
     ],
   },
   certifications: [
-    "Oracle Database SQL Certified Associate",
-    "CompTIA A+",
-    "CompTIA Network+",
-    "CompTIA Security+",
-    "Aviatrix Multicloud Network Associate"
+    {
+      name: "Oracle Database SQL Certified Associate",
+      issuer: "Oracle",
+      date: "February 2024",
+    },
+    {
+      name: "CompTIA Security+",
+      issuer: "CompTIA",
+      date: "February 2023",
+    },
+    {
+      name: "CompTIA Network+",
+      issuer: "CompTIA",
+      date: "January 2023",
+    },
+    {
+      name: "Aviatrix Multicloud Network Associate",
+      issuer: "Aviatrix",
+      date: "December 2022",
+    },
+    {
+      name: "CompTIA A+",
+      issuer: "CompTIA",
+      date: "October 2022",
+    },
   ],
   skills: [
     "Python",

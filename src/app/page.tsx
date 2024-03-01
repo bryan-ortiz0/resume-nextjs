@@ -79,9 +79,15 @@ export default function Page() {
         
         <Section>
           <h2 className="text-xl font-bold">Certifications</h2>
-          <div className="flex flex-wrap gap-1">
+          <div className="space-y-2">
             {RESUME_DATA.certifications.map((certification) => {
-              return <Badge key={certification}>{certification}</Badge>;
+              return (
+                <div key={certification.name} className="flex items-center gap-2">
+                  <span className="font-semibold">{certification.name}</span>
+                  <span className="text-muted-foreground">{certification.issuer}</span>
+                  <span className="text-muted-foreground">{certification.date}</span>
+          </div>
+              );
             })}
           </div>
         </Section>
